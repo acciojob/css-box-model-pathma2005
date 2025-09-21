@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+ .box {
+      width: 300px; /* Exact width */
+      background-color: lightblue; /* Background color */
+      border: 15px solid blue; /* Border */
+      padding: 50px; /* Inner padding */
+      margin: 20px; /* Outer margin */
+      box-sizing: border-box; /* Include border and padding in width */
+      font-family: Arial, sans-serif;
+ }

@@ -1,7 +1,9 @@
- .box{
-	 width:300px;
-	 background-color:lightblue;
-	 border:15px;
-	 padding:50px;
-	 margin:20px;
- }
+ div {
+  width: 300px;
+  background-color: lightblue;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
